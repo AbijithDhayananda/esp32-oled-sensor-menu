@@ -77,7 +77,7 @@ Install the following libraries via Arduino IDE:
 3. Upload the code to ESP32.
 4. Open Serial Monitor:
 
-   * Baud Rate: `9600`
+   * Baud Rate: `115200`
    * Select "No Line Ending"
 5. Use keyboard keys (`w`, `s`, `e`, `b`) to navigate.
 
